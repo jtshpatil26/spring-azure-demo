@@ -8,7 +8,7 @@ public class AzureController {
 
 	@GetMapping("/testAzure")
 	public String test() {
-		return "Welcome to Azure Demo 1";
+		return "Welcome Champ on my Azure application";
 	}
 	
 }
